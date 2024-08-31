@@ -1,0 +1,56 @@
+body{
+    background:url('../html/assets/images/tra.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.Navbar{
+    display: flex;         
+    line-height: 3;
+    margin: -10px 10px -10px -10px;
+    justify-content:end;
+    font-weight: bold;
+    
+}
+
+.Navbar a{
+    color: white;
+    padding: 5px;
+    margin-left:5px ;
+    font-size: 20px;
+    text-decoration: none;
+}
+.Navbar a:hover{
+    color: rgb(7, 0, 0);
+    background-color: white;
+ 
+}
+.content{
+    color: rgb(8, 8, 8);
+    border-color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-top: 130px;
+    
+
+}
+
+.content input{
+    width: 500px;
+    height: 30px;
+    border-radius: 40px;
+}
+.content button{
+    border-radius: 40px;
+    height: 30px;
+    font-weight: bold;
+    font-style: italic;
+    background-color: rgb(253, 182, 1);
+    color: white;
+}
+.Recent Deals{
+    background-color: white;
+
+}
